@@ -9,8 +9,8 @@
 
     <ImageView
         android:id="@+id/imgLogin"
-        android:layout_width="242dp"
-        android:layout_height="242dp"
+        android:layout_width="230dp"
+        android:layout_height="230dp"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="100dp"
         android:scaleType="centerCrop"
